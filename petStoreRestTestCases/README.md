@@ -1,4 +1,4 @@
-# # How to run the tests
+# How to run the tests
 ## Prerequisities
 - maven is installed
 - jdk is installed (preferred latest version)
