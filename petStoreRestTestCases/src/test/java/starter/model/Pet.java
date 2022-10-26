@@ -7,6 +7,6 @@ import lombok.Data;
 @Builder
 public class Pet {
 
-    public Integer petId;
+    public String petId;
     public String petName;
     }
